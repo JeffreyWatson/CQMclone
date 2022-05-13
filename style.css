@@ -1,0 +1,20 @@
+.hero-img {
+  background: url("shivendu-shukla-3yoTPuYR9ZY-unsplash.jpg");
+  background-size: cover;
+  background-position: center -32em;
+}
+
+.centered {
+  text-align: center;
+  font-size: 48pt;
+  color: white;
+  padding: 3.5em;
+}
+
+.sitePhotos {
+  justify-content: left;
+  height: 300px;
+  width: 275px;
+  object-fit: cover;
+  border-radius: 10%;
+}
